@@ -1,7 +1,7 @@
 package Tehtava14.task1;
 
 public class Ticket {
-    private int availableSeats;
+    int availableSeats;
 
     public Ticket(int seats) {
         this.availableSeats = seats;
