@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/src/Tehtava15/Tehtava15.iml" filepath="$PROJECT_DIR$/src/Tehtava15/Tehtava15.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/Tehtava16/Tehtava16.iml" filepath="$PROJECT_DIR$/src/Tehtava16/Tehtava16.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/Tehtava19/Tehtava19.iml" filepath="$PROJECT_DIR$/src/Tehtava19/Tehtava19.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled2.iml" filepath="$PROJECT_DIR$/untitled2.iml" />

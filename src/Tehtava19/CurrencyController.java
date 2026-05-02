@@ -15,7 +15,6 @@ public class CurrencyController {
         this.dao = dao;
     }
 
-    // NUEVO: cargar divisas desde BD
     public List<Currency> getAllCurrencies() {
         try {
             return dao.getAllCurrencies();
@@ -25,7 +24,7 @@ public class CurrencyController {
         }
     }
 
-    // NUEVO: convertir usando BD
+
     public double convert(double amount, Currency from, Currency to) throws SQLException {
         double fromRate = dao.getRate(from.getCode());
         double toRate = dao.getRate(to.getCode());
